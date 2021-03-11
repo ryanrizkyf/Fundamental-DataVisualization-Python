@@ -1,0 +1,22 @@
+Sebelum menentukan visual yang cocok atas suatu data, 
+seorang analis data harus memahami siapa atau audiens yang akan membaca data tersebut. 
+Dengan mengetahui karakter audiens, seorang data analis akan bisa 
+memperkirakan kepadatan data dan informasi yang akan disajikan.
+
+Hal itu akan memengaruhi pilihan visualisasi data, 
+yakni visual yang mengeksplorasi data sedetail mungkin atau grafis 
+yang menarasikan informasi dengan ringkas dan jelas. Apa bedanya?
+
+Visual Naratif, seringkali digunakan untuk presentasi, biasanya statis, dan berisi ringkasan informasi. 
+Tujuan utamanya adalah menjelaskan hasil akhir atau kesimpulan dari analis.
+
+Hasil tersebut bisa jadi disebarluaskan untuk banyak orang dengan berbagai tingkat pemahaman terhadap data. 
+Audiens tidak perlu lama-lama membacanya dan semestinya bisa segera memahaminya. 
+Oleh karena itu, penyajiannya cenderung menonjolkan keindahan visual. 
+Maka tidak heran bila informasi tidak disampaikan secara detail, 
+misalnya grafik tanpa legenda, label data, ataupun detail lain.
+
+Contoh visual naratif dapat dilihat pada file Visual_Naratif.png
+Gambar Visual_Naratif: Heatmap menggambarkan transaksi kumulatif harian selama satu tahun. 
+Grafik ini tidak menampilkan data secara detail, 
+karena tujuan utamanya adalah memperlihatkan pada jam berapa transaksi tertinggi dan terendah terjadi.

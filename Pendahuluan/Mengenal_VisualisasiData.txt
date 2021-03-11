@@ -6,6 +6,7 @@ Coba perhatikan Gambar 1. Gambar tersebut dibuat oleh engineer asal Prancis, Cha
 yang terlibat dalam invasi militer Napoleon ke Rusia pada 1812-1813.
 
 Lihat Gambar_1.png 
+Gambar 1: Grafik kekuatan pasukan Napoleon dalam invasi ke Rusia pada 1812-1813.
 
 Garis coklat dan hitam memperlihatkan kekuatan pasukan dari Prancis menuju dan kembali dari Moskow. 
 Lebar garis menggambarkan banyaknya serdadu. Lebarnya mengecil karena jumlahnya terus menyusut.
