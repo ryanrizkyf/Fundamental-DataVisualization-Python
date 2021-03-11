@@ -1,0 +1,16 @@
+Setelah berhasil memilih grafik yang benar sesuai tujuan penyajian data, 
+tantangan berikutnya adalah bagaimana membuat grafik tersebut menjadi mudah dipahami oleh audiens. 
+Di sini kata kuncinya adalah audiens, yang karakternya berbeda-beda.
+
+Karena itu, sangat penting bagi seorang pemapar data untuk memahami karakter audiens. 
+Seseorang yang terbiasa melihat data, 
+tentu saja akan lebih mudah mencerna grafik apa pun yang ada di hadapannya, bukan? 
+Sebaliknya, orang yang tak biasa menyaksikan gambar-gambar disertai angka, 
+apalagi disertai rumus atau perhitungan rumit, 
+tentu membutuhkan waktu lebih lama menerjemahkan sajian grafis tentang data.
+
+Karena karakter audiens yang beragam, maka cara mereka membaca data dan grafik pun tidak sama satu sama lain. 
+Karena itu, dalam menyajikan data, seorang analisis sebisa mungkin "mengarahkan" pembaca. 
+Mengarahkan di sini berarti harus dapat membawa alam pikir audiens seturut dengan logika analisis data, 
+hingga menyimpulkan hasilnya. 
+Juga mengarahkan mata pembaca dalam menelusuri sajian visual atas analisis data dan kesimpulan tersebut.
