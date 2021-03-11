@@ -1,0 +1,20 @@
+Visualisasi data dapat didefinisikan sebagai cara merepresentasikan data melalui komponen 
+visual, seperti posisi, komposisi, panjang, luas, dan warna. 
+Visualisasi data juga mencakup cara berkomunikasi secara efektif kepada audiens melalui bahasa gambar.
+
+Coba perhatikan Gambar 1. Gambar tersebut dibuat oleh engineer asal Prancis, Charles Joseph Minard, 
+yang terlibat dalam invasi militer Napoleon ke Rusia pada 1812-1813.
+
+Lihat Gambar_1.png 
+
+Garis coklat dan hitam memperlihatkan kekuatan pasukan dari Prancis menuju dan kembali dari Moskow. 
+Lebar garis menggambarkan banyaknya serdadu. Lebarnya mengecil karena jumlahnya terus menyusut.
+
+Gambar yang dibuat tahun 1869 tersebut juga memperlihatkan 
+peta, rute dan arah perjalanan, jarak tempuh, hingga grafik temperatur pada medan yang dilalui.
+
+Siapapun yang melihatnya, dan paham bahasanya, 
+akan dengan mudah mengetahui data dan cerita yang disampaikan dalam gambar tersebut. 
+Invasi itu berakhir dengan hilangnya sebagian besar kekuatan Napoleon. 
+Awalnya lebih dari 400.000-an prajurit, yang kembali hanya 10.000-an. 
+Sisanya menjadi korban akibat penyakit, suhu dingin, kelaparan, atau serangan lawan. Tragis!
