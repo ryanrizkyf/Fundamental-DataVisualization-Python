@@ -34,3 +34,21 @@ for i, m, w in zip(range(tabel.shape[0]), list(tabel['Laki-laki']), list(tabel['
                      color="w", va="center", ha="center", fontsize=14)
 plt.tight_layout()
 plt.show()
+
+# Solusi Visualisasi Data 1
+# Grafik kolom kurang cocok untuk menampilkan banyak kategori, dalam hal ini adalah rentang usia karyawan.
+# Ada tujuh kelompok usia dalam tabel data, masing-masing memiliki keterangan sebanyak 11 karakter (huruf).
+# Jika keterangan ini dijejer pada sumbu X, akan melebar dan makan tempat, bukan?
+
+# Pilihan yang lebih baik adalah menggunakan dua bar chart yang disusun menjadi piramida.
+# Jenis grafik ini dapat menempatkan batang-batang grafik menjadi lebih berdekatan,
+# sehingga menghemat ruang tampilan.
+# Dengan ukuran gambar yang sama seperti grafik sebelumnya,
+# dimungkinkan juga untuk memilih ukuran huruf lebih besar dan lebih terbaca.
+
+# Sebagai catatan, ada trik khusus jika ingin membuatnya di Excel.
+# Pada contoh ini, grafik tersebut sebetulnya terdiri dari dua grafik terpisah,
+# masing-masing untuk laki-laki dan perempuan.
+# Khusus untuk grafik laki-laki,
+# hanya perlu mengubah nilai pada sumbu X menjadi terbaca dari kanan ke kiri (reverse order).
+# Selain itu dapat juga mengubahnya pada jendela Format Data Series dalam Excel.
