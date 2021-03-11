@@ -1,0 +1,17 @@
+Seorang analis data seringkali menghabiskan waktunya untuk berkutat dengan data, 
+menganalisisnya hingga benar-benar menghasilkan kesimpulan yang tepat. 
+Pendek kata, yang diurusi melulu soal angka.
+
+Namun, ada satu hal yang seringkali dilewatkan, 
+yakni ketika harus menyajikannya kepada orang lain yang belum tentu paham dengan data tersebut. 
+Hal yang paling umum terjadi adalah: data disajikan apa adanya. 
+Misalnya, dalam bentuk grafik dengan desain template dari aplikasi seperti Microsoft Excel. 
+Karena menggunakan template, tampilan data itu menjadi monoton, bikin bosan, 
+kadang tidak pas dengan kesimpulan dan pesan yang ingin disampaikan.
+
+Permasalahan lain pun muncul, yakni ketika orang yang melihatnya salah mengartikan data. 
+Ini dapat terjadi karena, misalnya, data dipresentasikan tanpa narasi yang jelas. 
+Atau, bisa jadi tata letak dan elemen grafisnya tidak tepat sehingga audiens tersesat dari maksud dan tujuan sang analis.
+
+Maka dari itu, penting bagi seorang analis data untuk memvisualisasikan hasil kerjanya dengan baik. 
+Analis data perlu mengetahui cara menggambarkan data agar audiens memahami konteks dari data yang disajikan.
