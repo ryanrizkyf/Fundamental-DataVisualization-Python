@@ -14,3 +14,30 @@ Karena itu, dalam menyajikan data, seorang analisis sebisa mungkin "mengarahkan"
 Mengarahkan di sini berarti harus dapat membawa alam pikir audiens seturut dengan logika analisis data, 
 hingga menyimpulkan hasilnya. 
 Juga mengarahkan mata pembaca dalam menelusuri sajian visual atas analisis data dan kesimpulan tersebut.
+
+Lihat pada file Gambar_1.png
+Gambar 1: Grafik garis ini menggambarkan tren penjualan tiga produk selama satu tahun. 
+Alih-alih menonjolkan garis teratas (produk A) yang memiliki nilai lebih tinggi, 
+grafik ini justru menonjolkan produk B dengan warna terang yang mencolok mata.
+
+Lihatlah dua ilustrasi grafik pada Gambar 1 dan Gambar 2. 
+Pada Gambar 1, tidak ada petunjuk jelas tentang bagaimana cara membaca grafik tersebut. 
+Karena tidak ada ketentuan khusus, orang yang melihatnya akan membacanya dengan cara berbeda-beda. 
+Mungkin ada yang membacanya mulai dari judul grafik, 
+tetapi ada pula yang langsung mengarahkan perhatian pada garis berwarna cerah di bagian tengah.
+
+Lihat pada file Gambar_2.gif
+Gambar 2: Simulasi urutan membaca grafik oleh audiens. 
+Urutan ini tidak baku, tergantung pada karakter audiens yang melihatnya. 
+Namun, penggunaan warna terang pada garis di tengah akan mengarahkan pembaca untuk fokus pada garis tersebut.
+
+Gambar 2 memperlihatkan contoh pola membaca grafik tersebut. 
+Belum tentu semua orang akan menggunakan alur baca yang sama seperti ilustrasi tersebut. 
+Namun, setidaknya penggunaan warna, tebal-tipis garis, maupun besar-kecil ukuran huruf,
+menuntun audiens untuk menentukan bagian mana yang perlu dibaca lebih dulu.
+
+Coba bayangkan bila semua garis pada grafik tersebut memiliki ketebalan dan warna yang sama. 
+Demikian ukuran huruf pada judul, penjelasan grafik, legenda, hingga keterangan di masing-masing sumbu. 
+Sudah dapat dipastikan, tidak ada bagian yang paling menonjol dalam grafik tersebut, bukan? 
+Kalau begitu kondisinya, dapat dipastikan pula setiap orang yang membacanya, 
+akan punya cara sendiri-sendiri untuk mencerna grafik tersebut.
