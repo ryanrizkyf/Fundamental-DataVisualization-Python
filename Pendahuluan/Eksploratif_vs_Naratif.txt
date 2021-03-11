@@ -7,6 +7,7 @@ Hal itu akan memengaruhi pilihan visualisasi data,
 yakni visual yang mengeksplorasi data sedetail mungkin atau grafis 
 yang menarasikan informasi dengan ringkas dan jelas. Apa bedanya?
 
+
 Visual Naratif, seringkali digunakan untuk presentasi, biasanya statis, dan berisi ringkasan informasi. 
 Tujuan utamanya adalah menjelaskan hasil akhir atau kesimpulan dari analis.
 
@@ -20,3 +21,24 @@ Contoh visual naratif dapat dilihat pada file Visual_Naratif.png
 Gambar Visual_Naratif: Heatmap menggambarkan transaksi kumulatif harian selama satu tahun. 
 Grafik ini tidak menampilkan data secara detail, 
 karena tujuan utamanya adalah memperlihatkan pada jam berapa transaksi tertinggi dan terendah terjadi.
+
+
+Sebaliknya, visual eksploratif bertujuan memaparkan proses yang dilakukan untuk mendapatkan hasil akhir yang tepat. 
+Penyajiannya dibuat serinci dan seakurat mungkin untuk meyakinkan bahwa prosesnya benar.
+
+Visual Eksploratif, cenderung menampilkan banyak data. 
+Audiensnya pun tidak sembarang orang karena butuh waktu lebih lama untuk mencerna kompleksitas data tersebut. 
+Visual ini lebih ditujukan untuk orang-orang yang memang memahami data atau bisa menginvestigasi data tersebut. 
+
+Contoh visual eksploratif dapat dilihat pada file Viusal_Eksploratif.png
+Gambar Viusal_Eksploratif: Grafik transaksi harian selama satu tahun. 
+Grafik menggunakan elemen secara detail untuk memperlihatkan performa per jam setiap hari.
+
+
+Baik visual naratif maupun eksploratif ini memiliki tantangan tersendiri dalam pengerjaannya. 
+Untuk grafis naratif, sudah jelas bahwa kekuatan penyajiannya terletak pada cerita dan pesan dari narasi yang disampaikan. 
+Cerita dan pesan itu akan mudah dipahami apabila didukung dengan paparan yang tidak bertele-tele dan kemasan visual "menuntun" audiens pada tujuan yang sama. Wujudnya bisa berupa infografik, annual report, materi promosi, hingga company profile.
+
+Adapun visual eksploratif haruslah menonjolkan kekuatan analisis, 
+hubungan sebab-akibat perubahan data, dan proses lain. 
+Detail data ditampilkan untuk mendukung kesahihan analisis.
